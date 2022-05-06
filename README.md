@@ -2,11 +2,17 @@
 * 🇧🇷 Brazilian, living in Fortaleza.
 * 💻 Full-stack web developer
 * 🤝 Feel free to ask questions, add suggestions and make contributions to the projects.
-<div display="flex" flex-wrap="no-wrap" align="center">
-  <a href="https://github.com/Alexandre-Lustosa-Escossio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Lustosa-Escossio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Lustosa-Escossio&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<table display="none">
+  <tr>
+    <th>
+      <a href="https://github.com/Alexandre-Lustosa-Escossio">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Lustosa-Escossio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+     <th />
+    <th>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Lustosa-Escossio&layout=compact&langs_count=7&theme=dracula"/>
+    <th />
+  <tr />
+</table>
 <h2> 
   <img width = 20px src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" />
   Tech Stack 
