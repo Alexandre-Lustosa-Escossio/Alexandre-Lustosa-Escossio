@@ -2,7 +2,7 @@
 * 🇧🇷 Brazilian, living in Fortaleza.
 * 💻 Full-stack web developer
 * 🤝 Feel free to ask questions, add suggestions and make contributions to the projects.
-<div align="center">
+<div display="flex" align="center">
   <a href="https://github.com/Alexandre-Lustosa-Escossio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Lustosa-Escossio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Lustosa-Escossio&layout=compact&langs_count=7&theme=dracula"/>
@@ -29,16 +29,20 @@
   <a href="https://www.linkedin.com/in/alexandre-lustosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-  
+
 <div style="display: inline_block">
-  <h2> My Projects </h2>
-  <h3>Music Player Project</h3>
+  <h2> Projects I'm Proud Of 🌟 </h2>
+  <h3>🃏 Ragnarok Trunfo Project</h3>
+  <a href = "https://github.com/Alexandre-Lustosa-Escossio/music-player-project">
+    <img src="https://github.com/Alexandre-Lustosa-Escossio/ragnarok-trunfo-project/blob/Alexandre-Lustosa-Escossio-tryunfo/images/appOverview.gif">
+  </a>
+  <h3>🎧 Music Player Project</h3>
   <a href = "https://github.com/Alexandre-Lustosa-Escossio/music-player-project">
     <img src="https://github.com/Alexandre-Lustosa-Escossio/music-player-project/blob/master/src/images/Login-Screen.png?raw=true" target="_blank">
   </a>
 </div>
 <div style="display: inline_block">
-  <h3>Solar System Planets Project</h3>
+  <h3>🪐 Solar System Planets Project</h3>
   <a href = "https://github.com/Alexandre-Lustosa-Escossio/solar-system-project">
     <img src="https://github.com/Alexandre-Lustosa-Escossio/solar-system-project/blob/main/src/images/App-Preview.png?raw=true"
          style="border-radius:50%">
