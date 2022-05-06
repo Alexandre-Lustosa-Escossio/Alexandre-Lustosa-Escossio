@@ -2,7 +2,7 @@
 * 🇧🇷 Brazilian, living in Fortaleza.
 * 💻 Full-stack web developer
 * 🤝 Feel free to ask questions, add suggestions and make contributions to the projects.
-<div display="flex" align="center">
+<div display="flex" flex-wrap="no-wrap" align="center">
   <a href="https://github.com/Alexandre-Lustosa-Escossio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Lustosa-Escossio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Lustosa-Escossio&layout=compact&langs_count=7&theme=dracula"/>
