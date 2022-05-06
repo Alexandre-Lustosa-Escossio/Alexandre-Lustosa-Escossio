@@ -39,7 +39,7 @@
 <div style="display: inline_block">
   <h2> Projects I'm Proud Of 🌟 </h2>
   <h3>🃏 Ragnarok Trunfo Project</h3>
-  <a href = "https://github.com/Alexandre-Lustosa-Escossio/music-player-project">
+  <a href = "https://github.com/Alexandre-Lustosa-Escossio/ragnarok-trunfo-project">
     <img src="https://github.com/Alexandre-Lustosa-Escossio/ragnarok-trunfo-project/blob/Alexandre-Lustosa-Escossio-tryunfo/images/appOverview.gif">
   </a>
   <h3>🎧 Music Player Project</h3>
