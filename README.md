@@ -1,6 +1,7 @@
 ## Hi there! I'm Alexandre Lustosa. Welcome to my github!
 * 🇧🇷 Brazilian, living in Fortaleza.
-* 💻 Full-stack web developer
+* 💻 Full-stack web developer.
+* 📚 Currently diving deeper into Back-end development with NodeJS.
 * 🤝 Feel free to ask questions, add suggestions and make contributions to the projects.
 <table display="none">
   <tr>
