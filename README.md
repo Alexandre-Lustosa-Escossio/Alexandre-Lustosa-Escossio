@@ -48,10 +48,4 @@
     <img src="https://github.com/Alexandre-Lustosa-Escossio/music-player-project/blob/master/src/images/Login-Screen.png?raw=true" target="_blank">
   </a>
 </div>
-<div style="display: inline_block">
-  <h3>🪐 Solar System Planets Project</h3>
-  <a href = "https://github.com/Alexandre-Lustosa-Escossio/solar-system-project">
-    <img src="https://github.com/Alexandre-Lustosa-Escossio/solar-system-project/blob/main/src/images/App-Preview.png?raw=true"
-         style="border-radius:50%">
-  </a>
-</div>
+
